@@ -1,5 +1,5 @@
 # Software Engineering Workspace Installer (SEWI)
-A setup tool for repidly installing a set of necessary tools to enable professional software development. 
+A setup tool for rapidly installing a set of necessary tools to enable professional software development. 
 
 ## Tools
 * Code repository
